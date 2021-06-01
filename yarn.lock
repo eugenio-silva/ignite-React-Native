@@ -7775,6 +7775,11 @@ strip-final-newline@^2.0.0:
   resolved "https://registry.yarnpkg.com/strip-final-newline/-/strip-final-newline-2.0.0.tgz#89b852fb2fcbe936f6f4b3187afb0a12c1ab58ad"
   integrity sha512-BrpvfNAE3dcvq7ll3xVumzjKjZQ5tI1sEUIKr3Uoks0XUl45St3FlatVqef9prk4jRDzhW6WZg+3bk93y6pLjA==
 
+styled-components-react-native@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/styled-components-react-native/-/styled-components-react-native-1.0.0.tgz#80ca3c93bd740f078ca660300d7cb2b565bd7f11"
+  integrity sha512-ATGIroEUdft2MQdVaH0LJlW9S+tN8PQLKpiPWw2MvLtT6nP31XyIEHRtq4tDf47JjlMAwyggPT+GclHrYEfgcg==
+
 styled-components@^5.3.0:
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-5.3.0.tgz#e47c3d3e9ddfff539f118a3dd0fd4f8f4fb25727"
